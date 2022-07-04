@@ -1,8 +1,7 @@
-### Hi 👋 , I'm Emircan 
+### Hi 👋 , I'm Emircan                                            🔭 Frontend Developer
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                                  🔭 Frontend Developer
-                                                                  
-                                                         📫 How to reach me : omakemircan@hotmail.com
+                                                                 
+  📫 How to reach me : omakemircan@hotmail.com
 
 
