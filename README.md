@@ -12,4 +12,4 @@
 <br/>
 
 ### Social
-<img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Linkedln" data-canonical-src="https://www.linkedin.com/in/emircan-omak-9787061a6/">
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Linkedln" data-canonical-src="https://www.linkedin.com/in/emircan-omak-9787061a6/">
