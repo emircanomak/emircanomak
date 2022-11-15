@@ -9,7 +9,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-<img align="left" alt="Angular" width="29" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/angular/angular.png" />
+![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
+
 <br/>
 
 ### 📊 GitHub Analytics
