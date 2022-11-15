@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux)&nbsp;
-![Angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
 
 <br/>
 
