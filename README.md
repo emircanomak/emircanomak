@@ -13,8 +13,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 
-<br/>
-
 ### 📊 GitHub Analytics
 <p align="center">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="emircanomak"/>
