@@ -12,10 +12,3 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
-### 📊 GitHub Analytics
-<a href="https://github.com/emircanomak/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emircanomak&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/emircanomak/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emircanomak&repo=convoychat" />
-</a>
