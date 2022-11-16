@@ -13,9 +13,9 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ### 📊 GitHub Analytics
-<p align="center">
-<a href="https://github.com/emircanomak">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="emircanomak"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="emircanomak"/>
+<a href="https://github.com/emircanomak/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emircanomak&repo=github-readme-stats" />
 </a>
-</p>
+<a href="https://github.com/emircanomak/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emircanomak&repo=convoychat" />
+</a>
