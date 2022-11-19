@@ -17,8 +17,8 @@
 <!--END_SECTION:waka-->
 
 ### 📊 GitHub Analytics
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?emircanomak=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?emircanomak=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?emircanomak=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ### Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
