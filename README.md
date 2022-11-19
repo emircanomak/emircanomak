@@ -22,6 +22,6 @@
 
 ### Social Media
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emircan-omak-9787061a6/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emircan-omak-9787061a6/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=red&white=red)](https://www.linkedin.com/in/emircan-omak-9787061a6/)
 
 
