@@ -21,7 +21,6 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 ### Social Media
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emiromakk/?hl=tr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emircan-omak-9787061a6/)
 
 
