@@ -20,7 +20,8 @@
 <p align="left">
 <a href="https://github.com/emircanomak">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="emircanomak"/>
-  <p align="right">
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="emircanomak"/>
+  <p align="center">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="emircanomak"/>
 </a>
 </p>
+
