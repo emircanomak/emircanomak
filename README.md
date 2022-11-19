@@ -17,13 +17,8 @@
 <!--END_SECTION:waka-->
 
 ### 📊 GitHub Analytics
-<p align="left">
-<a href="https://github.com/emircanomak">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="emircanomak"/>
-  <p align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="emircanomak"/>
-</a>
-</p>
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=radical)
 
 ### Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
