@@ -17,7 +17,8 @@
 <!--END_SECTION:waka-->
 
 ### 📊 GitHub Analytics
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?emircanomak=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircanomak&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 
 ### Social Media
