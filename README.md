@@ -25,6 +25,5 @@
 ### 🤝🏻 Social Media
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emircan-omak-9787061a6/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=red&white=red)](https://www.instagram.com/emiromakk/?hl=tr)
-[![Medium Badge](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=black&black=red)](https://medium.com/@omakemircan)
-
+<a href="https://medium.com/@omakemircan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 
