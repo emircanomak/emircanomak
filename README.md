@@ -22,12 +22,12 @@
 <hr>
   <p align="center">
   <p>
-    <a href="https://github.com/kalayciburak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalayciburak&count_private=true&show_icons=true&theme=nord">
+    <a href="https://github.com/emircanomak" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=emircanomak&count_private=true&show_icons=true&theme=nord">
       </a>
 </p>
   <p>
-  <a href="https://github.com/kalayciburak" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kalayciburak&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  <a href="https://github.com/emircanomak" target="_blank">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
