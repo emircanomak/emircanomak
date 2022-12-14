@@ -31,4 +31,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emircanomak&theme=nord)]([https://github.com/emircanomak]
+
