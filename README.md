@@ -22,7 +22,7 @@
   
 <hr>
   
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=nord&date)
+ ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=radical)
   
 </p>
   <p>
