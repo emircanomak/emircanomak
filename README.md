@@ -21,13 +21,15 @@
 
   
 <hr>
-  
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=radical")
-  
+  <p align="center">
+  <p>
+    <a href="https://github.com/emircanomak" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=emircanomak&count_private=true&show_icons=true&theme=nord">
+      </a>
 </p>
   <p>
   <a href="https://github.com/emircanomak" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=nord&date_format=j%20M%5B%20Y%5D " />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
   </br>
