@@ -22,8 +22,7 @@
 <hr>
   <p align="center">
   <p>
-    <a href="https://github.com/emircanomak" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=emircanomak&count_private=true&show_icons=true&theme=nord">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?emircanomak=anuraghazra&show_icons=true&theme=radical)
       </a>
 </p>
   <p>
