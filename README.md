@@ -27,7 +27,7 @@
 </p>
   <p>
   <a href="https://github.com/emircanomak" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emircanomak&theme=nord&date_format=j%20M%5B%20Y%5D " />
   </a>
   </p>
   </br>
@@ -37,4 +37,4 @@
 <p align="center"> <a href="https://www.linkedin.com/in/emircanomak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
  <a href="https://medium.com/@omakemircan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 <hr>
-nord&date_format=j%20M%5B%20Y%5D
+
