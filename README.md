@@ -22,7 +22,7 @@
 <hr>
   <p align="center">
   <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?emircanomak=anuraghazra&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=radical)
       </a>
 </p>
   <p>
