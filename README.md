@@ -21,7 +21,9 @@
 
   
 <hr>
+  
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircanomak&show_icons=true&theme=radical)
+  
 </p>
   <p>
   <a href="https://github.com/emircanomak" target="_blank">
